@@ -110,7 +110,7 @@
 
 <h2 align="center">📊 Fun Extras</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdnanDLuffy&theme=radical&column=4&margin-w=18&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adnan-D-Luffy&theme=radical&column=4&margin-w=18&margin-h=15" alt="Trophies" />
   <br>
 </p>
 
