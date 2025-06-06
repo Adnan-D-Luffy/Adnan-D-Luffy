@@ -71,18 +71,18 @@
 
 <h2 align="center">🌟 Some of My Projects</h2>
 <p align="center">
-  <a href="https://github.com/AdnanDLuffy/AniPub" target="_blank">
+  <a href="https://github.com/Adnan-D-Luffy/AniPub" target="_blank">
     <img src="https://img.shields.io/badge/AniPub-Repo-282C34?style=for-the-badge&logo=github&logoColor=F7DF1E" />
   </a>
   <a href="https://anipub.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/AniPub-Live-0CCE6B?style=for-the-badge&logo=render&logoColor=white" />
   </a>
   <br>
-  <a href="https://github.com/AdnanDLuffy/MDA-Server" target="_blank">
+  <a href="https://github.com/Adnan-D-Luffy/MDA-Server" target="_blank">
     <img src="https://img.shields.io/badge/MDA--Server-Repo-FF5555?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br>
-  <a href="https://github.com/AdnanDLuffy/Grapify" target="_blank">
+  <a href="https://github.com/Adnan-D-Luffy/Grapify" target="_blank">
     <img src="https://img.shields.io/badge/Grapify-Repo-3776AB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
