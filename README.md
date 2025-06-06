@@ -1,5 +1,6 @@
 <h1 align="center">👋 Assalamualaikum! I'm Adnan</h1>
 <p align="center">Thanks for visiting this <b>noob's</b> profile 😄</p>
+<p align="center">Lost Access to my previous account ! AdnanDLuffy 😄</p>
 
 
 ---
